@@ -1,4 +1,4 @@
-package Plansza;
+package plansza;
 
 import javax.swing.*;
 import java.awt.*;
