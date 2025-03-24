@@ -1,7 +1,5 @@
 package bierki;
 
-import java.util.LinkedList;
-
 public abstract class PromowalnaBierka extends Bierka{
     boolean promowana = false;
 
